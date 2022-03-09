@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/7CsHLPQDBLOQ0m0I/nn+JeMLYDzIspds7PTZz5w2CRDHVVV2Unp45Vmth1K36GzMbmjtYRMnYgBi5QCzIDyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyler\\RiderProjects\\OneDimNoiseGen\\OneDimNoiseGen\\OneDimNoiseGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyler\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0-preview.1.22076.8\\microsoft.win32.systemevents.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\tyler\\.nuget\\packages\\system.drawing.common\\7.0.0-preview.1.22076.8\\system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}

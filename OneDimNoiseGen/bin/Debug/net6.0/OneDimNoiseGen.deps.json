@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OneDimNoiseGen/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "OneDimNoiseGen.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/7.0.0-preview.1.22076.8": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      },
+      "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "7.0.0-preview.1.22076.8"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          },
+          "runtimes/win/lib/net6.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.7608"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneDimNoiseGen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-l5XKxWSLk70jiOVCZIdnffx72iV6LWfMp5RTEgAKL/NnB1m6zh7ZC0k/N72u4iYKz9joxmbR4nejZWFFukSe9A==",
+      "path": "microsoft.win32.systemevents/7.0.0-preview.1.22076.8",
+      "hashPath": "microsoft.win32.systemevents.7.0.0-preview.1.22076.8.nupkg.sha512"
+    },
+    "System.Drawing.Common/7.0.0-preview.1.22076.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pLk5FX9vmSJL3/3hkdnkpMXTFI56iBZo3sU1mExFU6BlR2YWEYLjZT3WenSVJr2X4HW+ND5FM6zfb/YCLnknuA==",
+      "path": "system.drawing.common/7.0.0-preview.1.22076.8",
+      "hashPath": "system.drawing.common.7.0.0-preview.1.22076.8.nupkg.sha512"
+    }
+  }
+}
